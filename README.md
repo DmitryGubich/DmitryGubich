@@ -3,7 +3,7 @@
 
 **About me:**
 - Python software engineer
-- Good knowledge of Python 3, Django, Django Rest Framework, React.js
+- Good knowledge of Python 3, Django, Django Rest Framework, Fast API.
 - Always open to learn something new
 - Here is [my resume](https://read.cv/dmitrygubich)
 
