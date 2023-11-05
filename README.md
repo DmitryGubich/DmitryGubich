@@ -3,9 +3,10 @@
 
 **About me:**
 - Python software engineer
-- Good knowledge of Python 3, Django, Django Rest Framework, Fast API.
+- Good knowledge of Python 3, Django, Django Rest Framework, Django Graphene.
+- Basic knowledge of FastAPI and Flask.
 - Always open to learn something new
-- Here is [my resume](https://read.cv/dmitrygubich)
+- Here is [my cv](https://read.cv/dmitrygubich)
 
 **Github Stats:**
 <div align="center">
