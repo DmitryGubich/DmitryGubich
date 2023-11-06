@@ -8,7 +8,7 @@
 - Self-motivated, striving for self-development. To do this I am always open to getting and giving feedback. It helps me keep my growth plan up to date. Good communication and interpersonal skills. I am a real team player, at any time ready to help. 
 - Experience working under Agile methodologies (Scrum, Kanban, Scrumban). Like to deal with challenging tasks. Proactive and result-oriented developer.
   
-**My links:**
+**Links:**
 - [My CV](https://read.cv/dmitrygubich)
 - [LinkedIn](https://www.linkedin.com/in/dmitry-gubich/)
 
