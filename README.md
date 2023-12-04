@@ -9,7 +9,6 @@
 - Experience working under Agile methodologies (Scrum, Kanban, Scrumban). Like to deal with challenging tasks. Proactive and result-oriented developer.
   
 **Links:**
-- [My CV](https://read.cv/dmitrygubich)
 - [LinkedIn](https://www.linkedin.com/in/dmitry-gubich/)
 
 **Github Stats:**
