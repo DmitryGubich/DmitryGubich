@@ -6,6 +6,3 @@
 - Good knowledge of Python 3, Django, FastAPI and Flask. 
 - Self-motivated, striving for self-development. Good communication and interpersonal skills. Proactive and result-oriented.
 - Experience working under Agile methodologies (Scrum, Kanban, Scrumban).
-
-**Links:**
-- [LinkedIn](https://www.linkedin.com/in/dmitry-gubich/)
